@@ -55,3 +55,7 @@ def salary_rank_by_department(db_path):
     conn.close()
 
     return result
+
+
+
+
